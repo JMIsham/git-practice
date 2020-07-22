@@ -8,3 +8,4 @@ this is coloborator isham adding another hello!
 coloborator : deve!
 
 feature 3 
+feature_2 is merged 
